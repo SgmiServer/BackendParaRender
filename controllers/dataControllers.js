@@ -5,6 +5,7 @@ const express = require('express');
 const pool = new Pool(CONFIG_BD)
 const bcryptjs = require('bcryptjs');
 
+
 // Instructor
 // Registrar Un Instructor (Post):
 
