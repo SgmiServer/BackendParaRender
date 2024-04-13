@@ -3,10 +3,6 @@ const { CONFIG_BD } = require('../config/db');
 const { rows } = require('pg/lib/defaults');
 const express = require('express');
 const pool = new Pool(CONFIG_BD)
-
-
-
-
 // Instructor
 
 // Registrar Un Instructor (Post):
