@@ -1,8 +1,8 @@
  const CONFIG_BD ={
-user: 'sgmi_bd_user',
-host: 'dpg-cobcu5ev3ddc73f8a690-a',
-database: 'sgmi_bd',
-password: 'LWtsHswqxbkzEflXdeEkxoeQhCysWiXF',
+user: 'geston_de_mantenimiento_user',
+host: 'dpg-codgtaol5elc73fo0db0-a',
+database: 'geston_de_mantenimiento',
+password: 'BIFfJ1Z9SBdAGm4l1HPiqS1JECZH37Uk',
 port: 5432
 }
 
